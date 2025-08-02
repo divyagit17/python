@@ -1,0 +1,14 @@
+ 1. Easiest part of the assignment:
+                        
+        The easiest part of this assignment is, It is a personal welcome message program, and was easy to execute is program in basically in vs code. We can also personalize the welcome message by including user's name. 
+
+ 2. Most challenging part in program:
+
+       Actually Python is not more challenging programming language than anything. It's very easy to understand and its simplicityand power in built-in lists and dictionaries. 
+
+
+ 3. Main job of print() in python:
+   
+         The main job of print() function in python to display output in it. It makes easy to send your data as text to standard out. 
+
+         
